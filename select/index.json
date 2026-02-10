@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "adrenaline!!! - From THE FIRST TAKE",
+  "base_artist": "TrySail",
+  "createdAt": "2026-02-10T02:07:08.682735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "아드레날린 (Adrenaline)",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/01_아드레날린_(Adrenaline)_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "아드레날린 (Adrenaline)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/02_아드레날린_(Adrenaline)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Adrenaline!",
+      "artist": "The Roots feat. Dice Raw & Beanie Sigel",
+      "has_synced": true,
+      "path": "select/03_Adrenaline!_The_Roots_feat._Dice_Raw_&_Beanie_Sigel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Adrenaline! (Live)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/04_Adrenaline!_(Live)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Adrenaline",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/05_Adrenaline_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adrenaline!",
+      "artist": "The Roots, Dice Raw, Beanie Sigel",
+      "has_synced": true,
+      "path": "select/06_Adrenaline!_The_Roots,_Dice_Raw,_Beanie_Sigel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Adrenaline",
+      "artist": "The Roots feat. Dice Raw & Beans",
+      "has_synced": false,
+      "path": "select/07_Adrenaline_The_Roots_feat._Dice_Raw_&_Beans.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Adrenaline",
+      "artist": "Cam'ron feat. Twista & Psycho Drama",
+      "has_synced": true,
+      "path": "select/08_Adrenaline_Cam'ron_feat._Twista_&_Psycho_Drama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Young Adrenaline",
+      "artist": "Del the Funky Homosapien",
+      "has_synced": false,
+      "path": "select/09_Young_Adrenaline_Del_the_Funky_Homosapien.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Adrenaline",
+      "artist": "The Go Find",
+      "has_synced": true,
+      "path": "select/10_Adrenaline_The_Go_Find.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Adrenaline",
+      "artist": "Skarlett Riot",
+      "has_synced": false,
+      "path": "select/11_Adrenaline_Skarlett_Riot.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Adrenaline",
+      "artist": "The Gathering",
+      "has_synced": true,
+      "path": "select/12_Adrenaline_The_Gathering.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Adrenaline (Feat. Dice Raw & Beanie Sigel)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/13_Adrenaline_(Feat._Dice_Raw_&_Beanie_Sigel)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Adrenaline (feat. Twista & Psycho Drama)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/14_Adrenaline_(feat._Twista_&_Psycho_Drama)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Higher Love (Adrenaline Mix) [Edit]",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/15_Higher_Love_(Adrenaline_Mix)_[Edit]_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Higher Love (Adrenaline mix edit)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/16_Higher_Love_(Adrenaline_mix_edit)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Higher Love [Adrenaline Mix Edit",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/17_Higher_Love_[Adrenaline_Mix_Edit_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Higher Love - Adrenaline Mix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/18_Higher_Love_-_Adrenaline_Mix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Higher Lover [Adrenaline Mix]",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/19_Higher_Lover_[Adrenaline_Mix]_Depeche_Mode.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "adrenaline!!!",
+      "artist": "Trysail",
+      "has_synced": false,
+      "path": "select/pl_01_adrenaline!!!_Trysail.txt"
+    }
+  ]
+}
